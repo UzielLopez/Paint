@@ -32,6 +32,7 @@ def square(start, end):
         left(90)
 
     end_fill()
+    left(180)
 
 def circle(start, end):
     "Draw circle from start to end."
